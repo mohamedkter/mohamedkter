@@ -50,7 +50,7 @@
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile-link" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/mohamed-al-rifai-735332245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:mohamedrfaiy30@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
