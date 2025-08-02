@@ -11,7 +11,7 @@
 
 - 🛠️ I'm currently working on a **Home Services App** with live map support and user feedback  
 - 🌍 I love building **interactive UI/UX** with animations, localization, and RESTful APIs  
-- 🎯 My focus is on **Flutter**, **React.js**, and scalable backend APIs (Laravel / Node.js)  
+- 🎯 My focus is on **Flutter**, **React.js**, and scalable backend APIs (Node.js)  
 - 💬 Ask me about anything related to **mobile apps**, **clean architecture**, or **Firebase**
 
 ---
@@ -34,8 +34,8 @@
 ### 🔥 My GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedkter&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedkter&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -43,8 +43,7 @@
 ### 🎬 Featured Projects
 
 - 🔧 **Mahloula** – A location-based app to find nearby service providers  
-- 🛍️ **Stepify** – A full-featured Flutter e-commerce app for sneakers  
-- ⚽ **دوري الحتة** – A community football league app to track matches and players  
+- 🎥 **Movie App** – A modern Flutter movie application using TMDB API, featuring search, categories, and elegant UI  
 
 ---
 
@@ -52,8 +51,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/your-profile-link" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/yourtelegram"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="mailto:mohamedrfaiy30@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -63,8 +61,37 @@
 > "I write code like poetry and refactor like a sculptor."
 
 ---
+### 🎓 Education
 
-<!-- ANIMATIONS + LOTTIE -->
+#### 🏫 Faculty of Computers and Information — Assiut University, Egypt  
+📅 2020 – 2024  
+🎓 Bachelor’s Degree in **Computer Science** (قسم علوم الحاسب)
+
+---
+
+### 📌 Focus Areas
+
+- 🧱 **Object-Oriented Programming (OOP)**  
+  `Classes`, `Inheritance`, `Encapsulation`, `Polymorphism`
+
+- 🗃️ **Data Structures**  
+  `Arrays`, `Linked Lists`, `Stacks`, `Queues`, `Trees`, `Graphs`
+
+- ⚙️ **Algorithms**  
+  `Sorting`, `Searching`, `Recursion`, `Dynamic Programming`, `Greedy`
+
+- 💾 **Databases**  
+  `SQL`, `ERD`, `Joins`, `Normalization`, `Stored Procedures`
+
+- 🌐 **Web & Internet Technologies**  
+  `HTML`, `CSS`, `JavaScript`, `HTTP`, `Client-Server Model`
+
+- 📱 **Mobile Development Basics**  
+  `Flutter`, `UI/UX Principles`, `Firebase`, `Responsive Design`
+
+---
+
 <p align="center">
-  <img src="https://lottie.host/7e325eab-d37a-45d4-86be-41fa719d54ee/azijIFDAbV.json" height="150" alt="coding animation">
+  <img src="https://img.shields.io/badge/Computer%20Science-Focus-blueviolet?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
+
